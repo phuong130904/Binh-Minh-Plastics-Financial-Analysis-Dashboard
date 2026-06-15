@@ -7,6 +7,9 @@ Dự án xây dựng hệ thống Dashboard hỗ trợ phân tích báo cáo tà
 Thay vì trình bày dữ liệu tài chính dưới dạng các báo cáo tĩnh, Dashboard được thiết kế theo hướng Business Intelligence và Data Storytelling, giúp người dùng theo dõi sức khỏe tài chính doanh nghiệp, đánh giá chất lượng tăng trưởng và hỗ trợ ra quyết định dựa trên dữ liệu.
 
 Dự án sử dụng dữ liệu báo cáo tài chính theo quý của BMP trong giai đoạn 2021–2025.
+## Dashboard Preview
+
+(Xem file Dashboard-BMP.pdf trong thư mục Dashboard-images để xem đầy đủ 5 trang Dashboard)
 
 ## Bài toán kinh doanh
 
